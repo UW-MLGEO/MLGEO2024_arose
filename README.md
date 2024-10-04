@@ -1,4 +1,4 @@
-# MLGEO2024_arose
+# MLGEO2024_arose17
 Alex Rose's Repository for MLGEO2024
 
 # Installing repository via terminal window
