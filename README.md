@@ -3,10 +3,10 @@ Alex Rose's Repository for MLGEO2024
 
 # Installing repository via terminal window
 
-'''
+```
 >git clone "https://github.com/UW-MLGEO/MLGEO2024_arose17" 
 >conda env create -n ARose_test -f environment.yml
-'''
+```
 
 ## Notes on how to run Notebook
 
